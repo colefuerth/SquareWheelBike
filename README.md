@@ -10,6 +10,6 @@
 - 📫 How to reach me: [e-mail](mailto:colefuerth@gmail.com), [Discord](https://discordapp.com/users/397058583948296197) or [LinkedIn](https://www.linkedin.com/in/cole-fuerth-48344520a/)
 - ⚡ Fun fact: I have a lot of (farm) cats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SquareWheelBike&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/SquareWheelBike?tab=repositories)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=colefuerth&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/colefuerth?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SquareWheelBike&layout=compact&theme=radical)](https://github.com/SquareWheelBike?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colefuerth&layout=compact&theme=radical)](https://github.com/colefuerth?tab=repositories)
